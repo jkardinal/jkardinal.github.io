@@ -12,5 +12,3 @@ Ayo coba beberapa formatting:
 - **Tulisan tebal** sangat mudah.
 - *Tulisan miring* juga simpel.
 - Kita juga bisa bikin [tautan](https://github.com/jkardinal) ke profil GitHub.
-
-Ini adalah awal dari perjalanan blog saya!
